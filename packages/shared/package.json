@@ -32,11 +32,12 @@
     "eslint-plugin-react": "^7.7.0",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
+    "file-loader": "^1.1.11",
     "glob-loader": "^0.3.0",
     "jest": "^20.0.4",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "style-loader": "^0.20.3"
+    "style-loader": "^0.21.0"
   },
   "jest": {
     "setupFiles": [
